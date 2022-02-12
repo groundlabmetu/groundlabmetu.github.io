@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Contact
-tagline: Create a contact form and you are good to go
+title: İletişim
+tagline: İletişim
 ref: contact
 order: 1
 ---
 
-Jekyll is a great tool to create static sites but with static site, there's no backend to send your data to: that is why you need a third part service.
+Güvenlik eğitimlerine katılmak için [bu linki](https://docs.google.com/forms/d/15gCgQjnT9uV5aeeB8xR01lTsi_kxdNF2suaZH8a5rKc) kullanabilirsiniz.
 
-[Go to the Home Page]({{ '/' | absolute_url }})
+
+[Ana Sayfaya Dön]({{ '/' | absolute_url }})

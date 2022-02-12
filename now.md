@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Now
-tagline: Ne yapıyoruz?
-permalink: /now.html
-ref: now
+title: Ne yapıyoruz
+tagline: Ground Labda neler oluyor
+permalink: /durum.html
+ref: durum
 order: 2
 ---
 

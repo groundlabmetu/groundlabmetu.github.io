@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
-tagline: A few more words about this theme
+title: Hakkında
+tagline: Ground Lab nedir?
 permalink: /about.html
 ref: about
 order: 0
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+GroundLab ODTÜ Elektrik ve Elektronik bölümüne bağlı, fakat bölümdeki diğer laboratuvarların aksine öğrencilerin labın yönetiminde olduğu bir mekanik atölyedir. Elektrik ve elektronik bölümünde okumakta ve GroundLab eğitimini tamamlamış olan öğrenciler atölyedeki aletleri ve sarf malzemelerini kullanabilirler. GroundLab kullanımı için hiçbir ücret alınmaz. Laboratuvar 7 gün 24 saat kullanıma açıktır. Ground Lab giriş adaylarının güvenlik eğitimi almış ve kullanım şartlarını onaylamış olmaları gerekmektedir.
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
-
-
-[Go to the Home Page]({{ '/' | absolute_url }})
+[Ana Sayfaya Dön]({{ '/' | absolute_url }})
