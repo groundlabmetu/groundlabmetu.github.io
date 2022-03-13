@@ -8,7 +8,8 @@ order: 2
 ---
 <h1>GroundLab'e nasıl üye olurum ?</h1>
 
-  GroundLab üyesi olmanız için iki adet sınavı başarıyla geçmeniz gerekmektedir. Bunlardan ilki yazılı sınavdır. Bu sınavda sorulacak sorular ve sorularda vermenizi beklediğimiz cevaplar önceden yayınlanmaktadır. 
+  GroundLab üyesi olmanız için iki adet sınavı başarıyla geçmeniz gerekmektedir. Bunlardan ilki yazılı sınavdır. Bu sınavda sorulacak sorular ve sorularda vermenizi beklediğimiz cevaplar önceden yayınlanmaktadır. İkinci sınav ise pratik sınavdır. bu sınavda da sorulacak sorular ve vermenizi/ uygulamanızı belediğimiz cevaplar önceden yayınlanmaktadır. Üyelik almak isteyen kişi öncelikle yazılı sınavı başarıyla tamamlamalıdır. Pratik sınava kabul edilmeninn koşulu yazılı sınavı başarıyla tamamlamaktır. Sınavın uygulanacağı dil, sınava giren kişinin tercihine bağlıdır. Bu tercih ingilizce veya Türkçe ile sınırlıdır. Yazılı ve pratik sınava birden çok kez başvurulabilir ve başvurunuz kabul edilebilir.
+
 
    takvimden yazılı sınav olan slotları bul
    Tarihi kendine uyan sınavlara başvuruda bulun.  
@@ -21,7 +22,7 @@ Evet. Bunun sebebi güvenlik kaygıları ve labın fiziksel limitidir. GroundLab
 
 
 <h1>GroundLab üyeliğim iptal edilebilir mi ?</h1>
-Evet, groundlab üyeliğiniz iptal edilebilir. Yönetimde görev alan bir üye veya üyeler; abın işleyişini bozacak, üyeler arası huzursuzluk yaratacak, iş güvenliğinde açık oluşturup kendinize ve çevrenize zarar vermenize sebep olabilecek bir harekette bulunduğunuzu düşünürse bu hareketinizi Ozan Keysan'a raporlar. Ozan Keysan'ın değerlendirmesi sonrasında üyeliğiniz iptal edilebilir.
+Evet, groundlab üyeliğiniz iptal edilebilir. Yönetimde görev alan bir üye veya üyeler; labın işleyişini bozacak, üyeler arası huzursuzluk yaratacak, iş güvenliğinde açık oluşturup kendinize ve çevrenize zarar vermenize sebep olabilecek bir harekette bulunduğunuzu düşünürse bu hareketinizi Ozan Keysan'a raporlar. Ozan Keysan'ın değerlendirmesi sonrasında üyeliğiniz iptal edilebilir.
 
 <h1>Üyelik tipleri nelerdir ?</h1>
   <ul>
