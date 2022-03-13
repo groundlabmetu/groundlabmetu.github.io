@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yönetim
-tagline: GroundLab Yönetimi
+tagline: "Yönetme işi, çekip çevirme, idare"
 permalink: /yonetim.html
 ref: yonetim
 order: 5
