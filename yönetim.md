@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yönetim
-tagline: "Yönetme işi, çekip çevirme, idare"
+tagline: “If you want to go quickly, go alone. If you want to go far, go together.”
 permalink: /yonetim.html
 ref: yonetim
 order: 5
