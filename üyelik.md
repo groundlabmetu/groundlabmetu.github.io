@@ -4,7 +4,7 @@ title: Üyelik
 tagline: Üyelik hakkında
 permalink: /uyelik.html
 ref: uyelik
-order: 6
+order: 2
 ---
 <h1>GroundLab'e nasıl üye olurum'?</h1>
 adwqdwq

@@ -4,7 +4,7 @@ title: Envanter
 tagline: Ekipmanlar ve Sarf Malzemeleri
 permalink: /envanter.html
 ref: envanter
-order: 4
+order: 1
 ---
 <h1>GroundLab'da bulunan ekipmanlar nelerdir?</h1>
 adwqdwq

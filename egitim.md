@@ -4,7 +4,7 @@ title: Eğitim
 tagline: Ekipmanların kullanımı ve genel eğitimler
 permalink: /egitim.html
 ref: egitim
-order: 7
+order: 4
 ---
 <h1>Ekipman eğitimleri?</h1>
 

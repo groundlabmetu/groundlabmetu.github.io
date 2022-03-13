@@ -4,7 +4,7 @@ title: Kurallar
 tagline: GroundLab kuralları ve etikleri
 permalink: /kurallar.html
 ref: kurallar
-order: 8
+order: 6
 ---
 <h1>GroundLab kuralları?</h1>
 
