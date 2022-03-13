@@ -3,7 +3,7 @@ layout: page
 title: Hakkında
 tagline: Ground Lab nedir?
 permalink: /hakkinda.html
-ref: about
+ref: hakkinda
 order: 0
 ---
 <h1>GroundLab nedir?</h1>
