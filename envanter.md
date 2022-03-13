@@ -7,7 +7,7 @@ ref: envanter
 order: 1
 ---
 <h1>GroundLab'da bulunan ekipmanlar ve sarf malzemeleri nelerdir?</h1>
-Aşağıda yazılı olan ekipmanların çalışırlığı ve sarf malzemelerinin tedariği GroundLab yönetimi tarafından denetlenmektedir. Lütfen unutmayın, aşağıda yazılı olanlardan farklı ekipmanlar ve sarf malzemeleri de labda bulunmaktadır. Fakat tedarikleri ve çalışırlıkları kontrol edilmemektedir. Aşağıdaki ekipmanlar bir elektrik öğrencisinin "prototipleme" sırasında ihtiyaç duymasının çok olası oldukları arasından hazırlanmıştır.
+Aşağıda yazılı olan ekipmanların çalışırlığı ve sarf malzemelerinin tedariği GroundLab yönetimi tarafından denetlenmektedir. Lütfen unutmayın, aşağıda yazılı olanlardan farklı ekipmanlar ve sarf malzemeleri de labda bulunmaktadır. Fakat tedarikleri ve çalışırlıkları kontrol edilmemektedir. Bu malzemeler bozulduktan/bittikten sonra yenileri alınmayacaktır Aşağıdaki ekipmanlar bir elektrik öğrencisinin "prototipleme" sırasında ihtiyaç duymasının çok olası oldukları arasından seçilmiştir.
 
 <h2>Önemli aletler</h2>
    3D printer, El voltmetresi, anemometre (rüzgar hızı ölçer), IR termometre, LC metre, osiloskop, sinyal jeneratörü, lehim istasyonu (sıcak hava ve havya), Lehim dumanı çekici,
@@ -54,7 +54,7 @@ breadboard, jumper, timsah kablo
 
 <h4>Elektrolitik kapasitörler</h4>
   <ul>
-    <li><b> μF-voltage rating:</b> 1-50, 1-63, 1-100, 1-250, 1-400, 1-450, 2.2-50, 2.2-63, 2.2-100, 2.2-250, 2.2-400, 2.2-450, 3.3-35, 3.3-50, 3.3-63, 3.3-100, 3.3-450, 4.7-16, 4.7-25, 4.7-35, 4.7-50, 4.7-63, 4.7-100, 4.7-250, 4.7-450, 10-16, 10-25, 10-35, 10-50, 10-63, 10-100, 10-160, 10-400, 22-16, 22-25, 22-35, 22-50, 22-63, 22-100, 22-400, 33-16, 33-25, 33-35, 33-50, 33-63, 33-450 </li>
+    <li><b> μF-voltaj değerleri:</b> 1-50, 1-63, 1-100, 1-250, 1-400, 1-450, 2.2-50, 2.2-63, 2.2-100, 2.2-250, 2.2-400, 2.2-450, 3.3-35, 3.3-50, 3.3-63, 3.3-100, 3.3-450, 4.7-16, 4.7-25, 4.7-35, 4.7-50, 4.7-63, 4.7-100, 4.7-250, 4.7-450, 10-16, 10-25, 10-35, 10-50, 10-63, 10-100, 10-160, 10-400, 22-16, 22-25, 22-35, 22-50, 22-63, 22-100, 22-400, 33-16, 33-25, 33-35, 33-50, 33-63, 33-450 </li>
   </ul>
 <h4>Cam sigorta</h4>   
   <ul>
@@ -72,6 +72,8 @@ breadboard, jumper, timsah kablo
   <ul>
     <li><b>OP-AMP:</b> LM741, LM358 </li>
     <li><b>Opto-coupler:</b>  </li>
+    <li><b>74XX serisi:</b>  </li>
+    <li><b>40XX serisi:</b>  </li>
   </ul>    
 <h4>Linear voltaj regülatörleri</h4>
 <ul>
@@ -82,7 +84,7 @@ breadboard, jumper, timsah kablo
 <h4>Lehimleme sarf malzemeleri</h4>
   <ul>
     <li><b> Plaket:</b> </li>
-    <li> Diğer: kablo teli </li>
+    <li><b> Diğer:</b> kablo teli </li>
   </ul>
 Lehim teli (0.5mm- 0.75mm - 1mm), lehim pastası, 50X100mm tek yüz FR4 bakır plaket, 50X50 delikli pertinaks, 24AWG beyaz kablo, 24AWG mavi kablo, 24AWG kırmızı kablo, 24AWG siyah kablo,
 
