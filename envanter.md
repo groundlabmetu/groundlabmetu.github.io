@@ -7,7 +7,7 @@ ref: envanter
 order: 1
 ---
 <h1>GroundLab'da bulunan ekipmanlar ve sarf malzemeleri nelerdir?</h1>
-wefwef
+Aşağıda yazılı olan ekipmanların çalışırlığı ve sarf malzemelerinin tedariği GroundLab yönetimi tarafından denetlenmektedir. Lütfen unutmayın, aşağıda yazılı olanlardan farklı ekipmanlar ve sarf malzemeleri de labda bulunmaktadır. Fakat tedarikleri ve çalışırlıkları kontrol edilmemektedir. Aşağıdaki ekipmanlar bir elektrik öğrencisinin "prototipleme" sırasında ihtiyaç duymasının çok olası oldukları arasından hazırlanmıştır.
 
 <h2>Önemli aletler</h2>
    3D printer, El voltmetresi, anemometre (rüzgar hızı ölçer), IR termometre, LC metre, osiloskop, sinyal jeneratörü, lehim istasyonu (sıcak hava ve havya), Lehim dumanı çekici,
@@ -81,7 +81,7 @@ breadboard, jumper, timsah kablo
 
 <h4>Lehimleme sarf malzemeleri</h4>
   <ul>
-    <li><b> Plaket:</b> <li>
+    <li><b> Plaket:</b> </li>
     <li> Diğer: kablo teli </li>
   </ul>
 Lehim teli (0.5mm- 0.75mm - 1mm), lehim pastası, 50X100mm tek yüz FR4 bakır plaket, 50X50 delikli pertinaks, 24AWG beyaz kablo, 24AWG mavi kablo, 24AWG kırmızı kablo, 24AWG siyah kablo,
