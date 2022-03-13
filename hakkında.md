@@ -2,7 +2,7 @@
 layout: page
 title: Hakkında
 tagline: Ground Lab nedir?
-permalink: /about.html
+permalink: /hakkinda.html
 ref: about
 order: 0
 ---
