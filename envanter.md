@@ -84,9 +84,9 @@ breadboard, jumper, timsah kablo
 <h4>Lehimleme sarf malzemeleri</h4>
   <ul>
     <li><b> Plaket:</b> </li>
-    <li><b> Diğer:</b> kablo teli </li>
+    <li><b> Diğer:</b> Lehim teli (0.5mm- 0.75mm - 1mm), lehim pastası, 50X100mm tek yüz FR4 bakır plaket, 50X50 delikli pertinaks, 24AWG beyaz kablo, 24AWG mavi kablo, 24AWG kırmızı kablo, 24AWG siyah kablo, </li>
   </ul>
-Lehim teli (0.5mm- 0.75mm - 1mm), lehim pastası, 50X100mm tek yüz FR4 bakır plaket, 50X50 delikli pertinaks, 24AWG beyaz kablo, 24AWG mavi kablo, 24AWG kırmızı kablo, 24AWG siyah kablo,
+
 
 <h4>Mekanik sarf</h4>
   <ul>        
