@@ -56,14 +56,17 @@ wefwef
   </ul>
 
 <h4>Transistörler</h4>
+  <ul>
     <li><b>NPN:</b> BC338, BC547 </li>
     <li><b>PNP:</b>  </li>
     <li><b>NMOS:</b> IRFZ44N </li>
     <li><b>PMOS:</b>  </li>
-
+  </ul>
 <h4>Entegreler</h4>
+  <ul>
     <li><b>OP-AMP:</b> LM741, LM358 </li>
     <li><b>Opto-coupler:</b>  </li>
+  </ul>    
 <h4>Linear voltaj regülatörleri</h4
 
 <h4>Lehimleme sarf malzemeleri</h4>
