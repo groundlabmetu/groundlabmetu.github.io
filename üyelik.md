@@ -23,4 +23,6 @@ order: 2
     <li><b>Groundlab aday üyesi:</b> Üye olmak için başvuruda bulunmuş, gereklilikleri tamamlamaya çalışan üyedir.</li>
   </ul>
 
+ <h1>GroundLab giriş yetkim iptal edilebilir mi ?</h1>
+
 [Ana Sayfaya Dön]({{ '/' | absolute_url }})
