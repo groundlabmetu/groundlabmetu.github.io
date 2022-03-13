@@ -9,6 +9,10 @@ order: 5
 
 
  <!--   -->
+ <p align="center" width="100%">   
+   <img width="80%" src="/assets/2021-2022_yonetim_sablonu.png"  > <b> </b>
+</p>
+
 <h1>GroundLab yönetimi kimdir?</h1>
 
 GroundLab yönetimi; Labın
