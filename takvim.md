@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Takvim
-tagline: Ground Takvimi?
+tagline: Ground Takvimi
 permalink: /takvim.html
 ref: takvim
 order: 3
