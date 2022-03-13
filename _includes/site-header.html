@@ -1,7 +1,5 @@
 <header class="site-header" role="banner">
   <!-- put favicon file to page-->
-  <link rel="shortcut icon" href="assets/sembol.ico" type="image/x-icon" />
-  <link rel="icon" href="assets/sembol.ico" type="image/x-icon" />
   <div class="wrapper">
     {% assign default_refs = site.pages | sort:"order" | map: "ref" %}
     {% assign page_refs = site.header_page_refs | default: default_refs %}
