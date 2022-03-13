@@ -7,13 +7,17 @@ ref: uyelik
 order: 2
 ---
 <h1>GroundLab'e nasıl üye olurum ?</h1>
-  1) takvimden yazılı sınav olan slotu bul
-  2) bu ssınava kayıt olmak için belirtilen ön şartları sağladığını düşünüyorsan kayır formunu doldur
-  3) Yazılı sınava "href- yazılı sınav kağıdının çıktısını alarak gel"
+
+  GroundLab üyesi olmanız için iki adet sınavı başarıyla geçmeniz gerekmektedir. Bunlardan ilki yazılı sınavdır. Bu sınavda sorulacak sorular ve sorularda vermenizi beklediğimiz cevaplar önceden yayınlanmaktadır. 
+
+   takvimden yazılı sınav olan slotları bul
+   Tarihi kendine uyan sınavlara başvuruda bulun.  
+   bu ssınava kayıt olmak için belirtilen ön şartları sağladığını düşünüyorsan kayır formunu doldur  
+   Yazılı sınava "href- yazılı sınav kağıdının çıktısını alarak gel"
 
 
 <h1>GroundLab'a sadece elektrik-elektronik bölümünden öğrenciler mi üye olabilir ?</h1>
-Evet. Bunun iki sebebi güvenlik kaygıları ve labın fiziksel limitidir. GroundLab'e girişi olan ve elektrik bölümünde okumayan bir ODTÜ öğrencisi doğal olarak elektrik bölümüne de giriş yetkisi almış olmaktadır. Bu olumsuz bir şekilde sonuçlanabilir. Bununla beraber lab fiziksel boyutları ve ekipman adetleri sebebiyle yoğun dönemlerde elektrik bölümünden olan üyelerinin kullanımına bile yetmemektedir. Bu sebeple bölümümüz öğrencilerinin birçoğunun groundlaba giriş yetkisi bulunmamaktadır. Anlaşıldığı üzre başka bölümden kişilerin groundlab üyesi olması mantıklı değildir.   
+Evet. Bunun sebebi güvenlik kaygıları ve labın fiziksel limitidir. GroundLab'e girişi olan ve elektrik bölümünde okumayan bir ODTÜ öğrencisi doğal olarak elektrik bölümüne de giriş yetkisi almış olmaktadır. Bu olumsuz bir şekilde sonuçlanabilir. Bununla beraber lab fiziksel boyutları ve ekipman adetleri sebebiyle yoğun dönemlerde elektrik bölümünden olan üyelerinin kullanımına bile yetmemektedir. Bu sebeple bölümümüz öğrencilerinin birçoğunun groundlaba giriş yetkisi bulunmamaktadır. Anlaşıldığı üzre başka bölümden kişilerin groundlab üyesi olması mantıklı değildir. <b>Ancak</b> aklınızdaki projelerinizi, hobilerinizi gerçeğe dönüştürmek isteyen ve bunu gerçekleştirmek için kullanabileceği tek yer GroundLab olan  ODTÜ de lisans eğitimine devam eden bir öğrencisiyseniz takvimde belirtilen sınavlara başvuruda bulunabilirsiniz. Elektrik öğrencilerinin aksine sizin başvuru formundaki "niyet" paragrafını da doldurmanız beklenmektedir. Başvurunuz yönetimce incelenir ve kabul edilirse sınavlara katılabilirsiniz. Sınavları başarıyla tamamlamanız halinde GroundLab'i kullanmanıza izin verilir. Fakat, elektrik bölümünde okuyan üyelerin aksine, öğrenci kartınızla labın kapısını açamazsınız. Lab'ı sadece GroundLab üyesi olan bir arkadaşanız da groundLabdayken kullanabilirsiniz.
 
 
 <h1>GroundLab üyeliğim iptal edilebilir mi ?</h1>
@@ -25,6 +29,7 @@ Evet, groundlab üyeliğiniz iptal edilebilir. Yönetimde görev alan bir üye v
     <li><b>Ozan Keysan:</b> GroundLab yönetimini seçer ve yönetimi denetler. </li>
     <li><b>Groundlab yönetimi üyesi:</b> GroundLab'a yönelik alınan kararlar ve bu kararların uygulanmasında yetkisi olan üyedir.</li>
     <li><b>Groundlab üyesi:</b> GroundLab'i kullanma yetkisi bulunan üyedir. </li>
+    <li><b>Groundlab giriş izinsiz üyesi:</b> GroundLab'i kullanma yetkisi bulunan fakat öğrenci kartı ile GroundLab'a ve elektrik bölümüne giriş yapamayan üyedir. </li>
     <li><b>Groundlab aday üyesi:</b> Üye olmak için başvuruda bulunmuş, gereklilikleri tamamlamaya çalışan üyedir.</li>
   </ul>
 
