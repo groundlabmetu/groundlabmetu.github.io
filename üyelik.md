@@ -12,7 +12,7 @@ order: 2
   3) Yazılı sınava "href- yazılı sınav kağıdının çıktısını alarak gel"
 
 
-<h1>Elektrik-elektronik bölümünden değilim, üye olabilir miyim ?</h1>
+<h1>GroundLab'a sadece elektrik-elektronik bölümünden öğrenciler mi üye olabilir ?</h1>
 
 <h1>Üyelik tipleri nelerdir ?</h1>
   <ul>

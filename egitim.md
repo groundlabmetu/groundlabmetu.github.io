@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eğitim
-tagline: Ekipmanların kullanımı ve genel eğitimler
+tagline: “It is essential to have good tools, but it is also essential that the tools should be used in the right way.”
 permalink: /egitim.html
 ref: egitim
 order: 4
