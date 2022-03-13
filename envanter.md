@@ -9,16 +9,22 @@ order: 1
 <h1>GroundLab'da bulunan ekipmanlar ve sarf malzemeleri nelerdir?</h1>
 wefwef
 
-<h2>Ölçüm Aletleri ?</h2>
+<h2>Önemli aletler</h2>
+   3D printer, El voltmetresi, anemometre (rüzgar hızı ölçer), IR termometre, LC metre, osiloskop, sinyal jeneratörü, lehim istasyonu (sıcak hava ve havya), Lehim dumanı çekici,
 
-<h2>Elektronik el aletleri ?</h2>
+<h2>Elektronik el aletleri </h2>
+  Masa tipi dekopaj, el matkabı, vidalama matkabı, titreşimli kesici, silikon tabancası, sıcak hava tabancası
 
-<h2>El aletleri?</h2>
+<h2>El aletleri</h2>
+Alyan seti, anahtar seti, çekiç, testere, eğe seti,  işkenceler, tornavidalar, elektrikçi tornavidası, lehim pompası,
 
-<h2>Diğer ekipmanlar?</h2>
-  breadboard, lehim teli,
+<h2>Diğer ekipmanlar</h2>
+Koruyucu gözlük, Matkap uçları (HSS 3-4-5-6-7-8-9 mm, Beton 4mm), 3mm kılavuz set
 
-<h2>Sarf malzemeleri ?</h2>
+<h2>Prototipleme ekipmanları</h2>
+breadboard, jumper, timsah kablo
+
+<h2>Sarf malzemeleri </h2>
 
 <h4>1/4W'lık "Through Hole" direnç değerleri</h4>
   <ul>
@@ -67,22 +73,24 @@ wefwef
     <li><b>OP-AMP:</b> LM741, LM358 </li>
     <li><b>Opto-coupler:</b>  </li>
   </ul>    
-<h4>Linear voltaj regülatörleri</h4
+<h4>Linear voltaj regülatörleri</h4>
+<ul>
+  <li><b> TO-92 paket:</b> 78L05, 78L12, 79L05, 79L09 </li>
+  <li><b>79 TO-220 paket:</b> 7806CV, 7808CV  </li>
+</ul>
 
 <h4>Lehimleme sarf malzemeleri</h4>
   <ul>
     <li><b> Plaket:</b> <li>
+    <li> Diğer: kablo teli </li>
   </ul>
+Lehim teli (0.5mm- 0.75mm - 1mm), lehim pastası, 50X100mm tek yüz FR4 bakır plaket, 50X50 delikli pertinaks, 24AWG beyaz kablo, 24AWG mavi kablo, 24AWG kırmızı kablo, 24AWG siyah kablo,
 
-
-
-
-direnç
-osiloskop
-multimetre
-voltmetre
-.
-.
+<h4>Mekanik sarf</h4>
+  <ul>        
+    <li><b> Vida, somun ve çivi: </b> M3 vida (10mm-12mm- 20mm- 50mm- somun- pul), M4 vida (10mm-50mm-somun-pul),   </li>
+    <li><b> Diğer: </b> Kablo bağı, silikon tabancası silikonu, zımpara kağıdı</li>
+  </ul>
 
 
 [Ana Sayfaya Dön]({{ '/' | absolute_url }})
