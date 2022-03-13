@@ -2,7 +2,7 @@
 layout: page
 title: Takvim
 tagline: Ground Takvimi?
-permalink: /hakkinda.html
+permalink: /takvim.html
 ref: takvim
 order: 3
 ---
