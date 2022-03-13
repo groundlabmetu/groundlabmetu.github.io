@@ -8,14 +8,12 @@ order: 2
 ---
 <h1>GroundLab'e nasıl üye olurum ?</h1>
 
-  GroundLab üyesi olmanız için iki adet sınavı başarıyla geçmeniz gerekmektedir. Bunlardan ilki yazılı sınavdır. Bu sınavda sorulacak sorular ve sorularda vermenizi beklediğimiz cevaplar önceden yayınlanmaktadır. İkinci sınav ise pratik sınavdır. bu sınavda da sorulacak sorular ve vermenizi/ uygulamanızı belediğimiz cevaplar önceden yayınlanmaktadır. Üyelik almak isteyen kişi öncelikle yazılı sınavı başarıyla tamamlamalıdır. Pratik sınava kabul edilmeninn koşulu yazılı sınavı başarıyla tamamlamaktır. Sınavın uygulanacağı dil, sınava giren kişinin tercihine bağlıdır. Bu tercih ingilizce veya Türkçe ile sınırlıdır. Yazılı ve pratik sınava birden çok kez başvurulabilir ve başvurunuz birden çok kez kabul edilebilir. Yakın zamanda gerçekleşecek sınavlar için lütfen "takvim" sekmesine gidin.
+  GroundLab üyesi olmanız için iki adet sınavı başarıyla geçmeniz gerekmektedir. Bunlardan ilki yazılı sınavdır. Bu sınavda sorulacak sorular ve sorularda vermenizi beklediğimiz cevaplar önceden yayınlanmaktadır. İkinci sınav ise pratik sınavdır. bu sınavda da sorulacak sorular ve vermenizi/ uygulamanızı belediğimiz cevaplar önceden yayınlanmaktadır. Üyelik almak isteyen kişi öncelikle yazılı sınavı başarıyla tamamlamalıdır. Pratik sınava kabul edilmeninn koşulu yazılı sınavı başarıyla tamamlamaktır. Sınavın uygulanacağı dil, sınava giren kişinin tercihine bağlıdır. Bu tercih ingilizce veya Türkçe ile sınırlıdır. Yazılı ve pratik sınava birden çok kez başvurulabilir ve başvurunuz birden çok kez kabul edilebilir. Yakın zamanda gerçekleşecek sınavlar için lütfen "takvim" sekmesine gidin.\
 
-  <ul>
-    <li>[TR- GroundLab yazılı sınavı.pdf](https://github.com/groundlabmetu/groundlabmetu.github.io/blob/main/docs/TR-%20GroundLab%20yaz%C4%B1l%C4%B1%20s%C4%B1nav%C4%B1.pdf)</li>
-    <li>[TR- GroundLab yazılı sınav cevap kağıdı.pdf](https://github.com/groundlabmetu/groundlabmetu.github.io/blob/main/docs/TR-%20GroundLab%20yaz%C4%B1l%C4%B1%20s%C4%B1nav%20cevap%20ka%C4%9F%C4%B1d%C4%B1.pdf)</li>
-    <li>[EN- GroundLab paper based exam.pdf](https://github.com/groundlabmetu/groundlabmetu.github.io/blob/main/docs/EN-%20GroundLab%20paper%20based%20exam.pdf)</li>
-    <li>[EN- GroundLab paper based exam answer sheet.pdf](https://github.com/groundlabmetu/groundlabmetu.github.io/blob/main/docs/EN-%20GroundLab%20paper%20based%20exam%20answer%20sheet.pdf)</li>
-  </ul>
+    [TR- GroundLab yazılı sınavı.pdf](https://github.com/groundlabmetu/groundlabmetu.github.io/blob/main/docs/TR-%20GroundLab%20yaz%C4%B1l%C4%B1%20s%C4%B1nav%C4%B1.pdf) \
+    [TR- GroundLab yazılı sınav cevap kağıdı.pdf](https://github.com/groundlabmetu/groundlabmetu.github.io/blob/main/docs/TR-%20GroundLab%20yaz%C4%B1l%C4%B1%20s%C4%B1nav%20cevap%20ka%C4%9F%C4%B1d%C4%B1.pdf)\
+    [EN- GroundLab paper based exam.pdf](https://github.com/groundlabmetu/groundlabmetu.github.io/blob/main/docs/EN-%20GroundLab%20paper%20based%20exam.pdf)\
+    [EN- GroundLab paper based exam answer sheet.pdf](https://github.com/groundlabmetu/groundlabmetu.github.io/blob/main/docs/EN-%20GroundLab%20paper%20based%20exam%20answer%20sheet.pdf)\
 
 
 
