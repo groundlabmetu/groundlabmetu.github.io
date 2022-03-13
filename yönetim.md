@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yönetim
-tagline: “If you want to go quickly, go alone. If you want to go far, go together.”
+tagline: "People who enjoy meetings should not be in charge of anything."
 permalink: /yonetim.html
 ref: yonetim
 order: 5
