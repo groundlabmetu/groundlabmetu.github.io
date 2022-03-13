@@ -2,7 +2,7 @@
 layout: page
 title: İletişim
 tagline: İletişim
-ref: contact
+ref: iletisim
 order: 1
 ---
 
