@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Eğitim
-tagline: Ekipmanların kullanımı ve genel eğitimler
-permalink: /egitim.html
-ref: egitim
-order: 7
+title: Kurallar
+tagline: GroundLab kuralları ve etikleri
+permalink: /kurallar.html
+ref: kurallar
+order: 8
 ---
 <h1>Ekipman eğitimleri?</h1>
 
