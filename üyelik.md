@@ -6,7 +6,7 @@ permalink: /uyelik.html
 ref: uyelik
 order: 2
 ---
-<h1>GroundLab'e nasıl üye olurum'?</h1>
+<h1>GroundLab'e nasıl üye olurum ?</h1>
   1) takvimden yazılı sınav olan slotu bul
   2) bu ssınava kayıt olmak için belirtilen ön şartları sağladığını düşünüyorsan kayır formunu doldur
   3) Yazılı sınava "href- yazılı sınav kağıdının çıktısını alarak gel"
