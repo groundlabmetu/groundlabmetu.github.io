@@ -6,7 +6,7 @@ permalink: /egitim.html
 ref: egitim
 order: 4
 ---
-<h1>Ekipman eğitimleri?</h1>
+<h1>Ekipman eğitimleri</h1>
 
 qwdwqd
 

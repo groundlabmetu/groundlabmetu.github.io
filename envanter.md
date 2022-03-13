@@ -34,9 +34,10 @@ wefwef
   </ul>
 
 <h4>Diyotlar</h4>
+  <ul>
     <li><b>Normal diyot:</b> 1N4007 </li>
     <li><b>Zener diyot (1/2W) :</b>3.3V, 3.9V, 4.7V, 5.1V, 5.6V, 6.2V, 6.8V, 7.5V, 8.2V, 9, 10V, 12V, 13V, 15V, 16V, 18V, 20V, 22V, 24V, 27V, 30V, 33V,39V, 43V, 47V   </li>  
-
+  <ul>  
 <h4>Seramik kapasitörler </h4>
   <ul>
     <li><b>pF (63V):</b> 1, 2.2, 3.3, 4.7, 5.6, 6.8, 10, 15, 22, 27, 33, 47, 56, 68, 100, 150, 220, 270, 330, 470, 560, 680 </li>
@@ -50,7 +51,7 @@ wefwef
   </ul>
 <h4>Cam sigorta</h4>   
   <ul>
-    <li><b> 5x20mm cam sigorta (Amper):</b> 0.1, 0.2, 0.25, 0.4, 0.5, 0.63, 1, 1.2, 1.6, 2, 3, 4, 5, 6, 6.3, 7, 8, 10, 15, 20, 25<li>
+    <li><b> 5x20mm cam sigorta (Amper):</b> 0.1, 0.2, 0.25, 0.4, 0.5, 0.63, 1, 1.2, 1.6, 2, 3, 4, 5, 6, 6.3, 7, 8, 10, 15, 20, 25 </li>
   </ul>
 
 <h4>Transistörler</h4>
