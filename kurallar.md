@@ -2,7 +2,6 @@
 layout: page
 title: Kurallar
 tagline: “We started off trying to set up a small anarchist community, but people wouldn't obey the rules.”
-― Alan Bennett, Getting On
 permalink: /kurallar.html
 ref: kurallar
 order: 6
