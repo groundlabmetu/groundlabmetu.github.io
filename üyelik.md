@@ -15,11 +15,11 @@ order: 2
 
 <h1>Üyelik tipleri nelerdir'?</h1>
   <ul>
-    <li>İdari ve akademik personel: GroundLab eğitimini almadığı halde groundlab’e giriş yetkisi olabilecek üyelerdir. Bunlara bölümümüz hocaları, temizlikle görevli idari personeller ve teknisyenler örnek verilebilir.</li>
-    <li>Ozan Keysan: GroundLab yönetimini seçer ve yönetimi denetler. </li>
-    <li>Groundlab yönetimi üyesi: GroundLab'a yönelik alınan kararlar ve bu kararların uygulanmasında yetkisi olan üyedir.</li>
-    <li>Groundlab üyesi: GroundLab'i kullanma yetkisi bulunan üyedir. </li>
-    <li>Groundlab aday üyesi: Üye olmak için başvuruda bulunmuş, gereklilikleri tamamlayama çalışan üyedir.</li>
+    <li><b>Akademik ve idari personel:</b> GroundLab eğitimini almadığı halde groundlab’e giriş yetkisi olabilecek üyelerdir. Bunlara bölümümüz hocaları, temizlikle görevli idari personeller ve teknisyenler örnek verilebilir.</li>
+    <li><b>Ozan Keysan:</b> GroundLab yönetimini seçer ve yönetimi denetler. </li>
+    <li><b>Groundlab yönetimi üyesi:</b> GroundLab'a yönelik alınan kararlar ve bu kararların uygulanmasında yetkisi olan üyedir.</li>
+    <li><b>Groundlab üyesi:</b> GroundLab'i kullanma yetkisi bulunan üyedir. </li>
+    <li><b>Groundlab aday üyesi:</b> Üye olmak için başvuruda bulunmuş, gereklilikleri tamamlayama çalışan üyedir.</li>
   </ul>
 
 [Ana Sayfaya Dön]({{ '/' | absolute_url }})
