@@ -22,7 +22,7 @@ GroundLab 4 farklı bölgeye ayrılmıştır. Bu bölgeler şunlardır;
 3. Atölye masaları
 4. 3D printer
 
-Bu bölgelerden sadece **bilgisayar masası**nda sürekli elektrik bulunmaktadır. Diğer bölgelerdeki elektrik ise laboratuvarın bilgisayarında bulunan arayüz üzerinden açılır. GroudLab tanıtımını tamamlayan bir üye laboratuvara girebilecek yetkiye sahiptir fakat diğer bölgelerdeki elektriği doğrudan açacak yetkiye sahip değildir. Bu bölgelerde yetkili olmak için bazı eğitimleri tamamlaması gerekir. Tamaladıktan sonra ise ilgili yetkiyi kazanır.
+Bu bölgelerden sadece **bilgisayar masası**nda sürekli elektrik bulunmaktadır. Diğer bölgelerdeki elektrik ise laboratuvarın bilgisayarında bulunan arayüz üzerinden açılır. GroudLab tanıtımını tamamlayan bir üye laboratuvara girebilecek yetkiye sahiptir fakat diğer bölgelerdeki elektriği açacak yetkiye sahip değildir. Bu bölgelerde yetkili olmak için bazı eğitimleri tamamlaması gerekir. Tamaladıktan sonra ise ilgili yetkiyi kazanır.
 
 Sistem şu şekilde kimlik doğrular: Okul tarafından verilen öğrenci kartlarının öğrenciye özel bir numarası vardır. RFID okuyucu ile bu numaralar temassız şekilde okunabilir. GroundLab yönetim sisteminde bulunan okuyucu, öğrenci kartlarındaki bu özel numarayla öğrenciyi eşleştirmekte ve öğrencinin kimliğini doğrulamaktadır. Bu doğrulama sonrasında öğrenci, kendi yetkisi sınırında, GroundLab programında işlem yapabilmeye başlar.
 
@@ -30,7 +30,9 @@ Sistem şu şekilde kimlik doğrular: Okul tarafından verilen öğrenci kartlar
    <img width="35%" src="/assets/groundlab_kart_okuyucu.png"  > <b> </b>
 </p>
 
+
 <h2> GroundLab eğitimler ve sınavlar</h2>
+
 
 <h4>1) GroundLab tanıtımı </h4>
 
@@ -54,6 +56,6 @@ GroundLab'de bulunan 3D yazıcıyı kullanmak isteyen kişiler **Creality Ender 
 
 <h4>4) Atölye sınavı </h4>
 
-Laboratuvarda masa matkabı, dekupaj gibi çeşitli elektronik el aletleri bulunmaktadır. Bu aletleri kullanmak isteyen kişilerin atölye sınavını tamamlaması gerekmektedir. Bu sınava hazırlanmak isteyen biri GroundLab youtube kanalında paylaşılmış olan "[Ground Lab - Tutorials on how to use available equipments.](https://www.youtube.com/watch?v=42mhPs9hhWk&list=PL1yz4xQJwGLwMurKDHjZWEhF8jgGcLHv_)" adlı playlisti izleyebilir. 
+Laboratuvarda masa matkabı, dekupaj gibi çeşitli elektronik el aletleri bulunmaktadır. Bu aletleri kullanmak isteyen kişilerin atölye sınavını tamamlaması gerekmektedir. Bu sınava hazırlanmak isteyen biri GroundLab youtube kanalında paylaşılmış olan "[Ground Lab - Tutorials on how to use available equipments.](https://www.youtube.com/watch?v=42mhPs9hhWk&list=PL1yz4xQJwGLwMurKDHjZWEhF8jgGcLHv_)" adlı playlisti izleyebilir.
 
 [Ana Sayfaya Dön]({{ '/' | absolute_url }})
