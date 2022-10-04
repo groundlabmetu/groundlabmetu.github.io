@@ -6,12 +6,9 @@ ref: uyelik
 order: 5
 
 
-# [👉 GroundLab Tanıtım Sunumu](https://www.youtube.com/watch?v=ySYRfXMPcYs)
-
 <h1>GroundLab'e nasıl üye olurum ?</h1>
 
 *groundlab tanıtımı
-
 
 *grodunlab kart okutma sistemi
 
@@ -20,5 +17,10 @@ order: 5
 ->atölye masaları
 
 ->3D printer
+
+
+
+## [GroundLab tanıtım sunumu](https://www.youtube.com/watch?v=ySYRfXMPcYs)
+
 
 [Ana Sayfaya Dön]({{ '/' | absolute_url }})
