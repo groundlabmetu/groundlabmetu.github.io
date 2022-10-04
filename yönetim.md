@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yönetim
-tagline: “People who enjoy meetings should not be in charge of anything.”
+tagline: “Toplantılardan hoşlanan insanlar hiçbir şey yönetmemeli!”
 permalink: /yonetim.html
 ref: yonetim
 order: 3

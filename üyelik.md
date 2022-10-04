@@ -1,6 +1,6 @@
 ---
 title: Üyelik
-tagline: “If you want to go quickly, go alone. If you want to go far, go together.”
+tagline: “Hızlı gitmek istiyorsan tek git, uzağa gitmek istiyorsan beraber...”
 permalink: /uyelik.html
 ref: uyelik
 order: 1

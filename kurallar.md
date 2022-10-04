@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kurallar
-tagline: “We started off trying to set up a small anarchist community, but people wouldn't obey the rules.”
+tagline: “Minik anarşist bir topluluk kurmaya çalıştık fakat kisme kurallara uymadı."
 permalink: /kurallar.html
 ref: kurallar
 order: 4
