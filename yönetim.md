@@ -25,8 +25,6 @@ Yönetimde olan kişilerin groundlab’i kullanım açısından diğer üyelerde
 
 Yukarıda verilen yönetim şemasında yönetimdeki üyelerin resmi bulunmaktadır. Bu resimlerin bazılarının altında resminin ait olduğu üyeye ait iletişim bilgileri yazmaktadır. İletişim bilgisi verilen bu kişilere ulaşabilirsiniz.
 
-[Ana Sayfaya Dön]({{ '/' | absolute_url }})
 
-```text
-[Ana Sayfaya Dön]('https://groundlabmetu.github.io/')
-```
+
+[Ana Sayfaya Dön](https://groundlabmetu.github.io/)
