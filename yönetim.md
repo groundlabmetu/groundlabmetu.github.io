@@ -8,7 +8,7 @@ order: 5
 ---
 
 <p align="center" width="100%">   
-   <img width="100%" src="/assets/2021-2022_yonetim_sablonu.png"  > <b> </b>
+   <img width="100%" src="/assets/2022_2023_yonetim_sablonu.png"  > <b> </b>
 </p>
 
 
@@ -18,6 +18,7 @@ GroundLab yönetimi; labda bulunan elektronik ölçüm aletleri, el aletleri ve 
 
 <h1>Yönetimdekilerin yetkisi nedir ?</h1>
 Yönetimde olan kişilerin groundlab’i kullanım açısından diğer üyelerden hiçbir farkı bulanmamaktadır. Lab kullanımı için geçerli olan tüm kurallar, yönetimdeki üyeler için de geçerlidir. Yönetimdeki kişilerin normal üyelerden farkı laba üye alımlarını denetlemek, malzeme alım isteğinde bulunmak ve kural ihlali yapan üyelerin üyelik iptali için Ozan Keysan’ile iletişim halinde bulunmaları ve kendi aralarında düzenledikleri toplantılarla lab’ın, işleyişini, ve sürdürülebilirliğini sağlayacak kararlar alabilmeleri, kurallar koyabilmeleri ve var olan kuralları güncelleyebilmeleridir.
+
 
 <h1>Yönetimdekilere nasıl ulaşabilirim ?</h1>
 
