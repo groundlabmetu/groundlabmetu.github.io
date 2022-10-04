@@ -30,8 +30,8 @@ Bu bölgelerden sadece **bilgisayar masası**nda sürekli elektrik bulunmaktadı
 Okul tarafından verilen öğrenci kartlarının öğrenciye özel bir numarası vardır. RFID okuyucu ile bu numaralar temassız şekilde okunabilir. GroundLab yönetim sisteminde bulunan okuyucu, öğrenci kartlarındaki bu özel numarayla öğrenciyi eşleştirmekte ve öğrencinin kimliğini doğrulamaktadır. Bu kimlik doğrulama sonrasında öğrenci, kendi yetkisi sınırında, arayüzde işlem yapabilmeye başlar.
 
 
-<p align="center" width="50%">   
-   <img width="100%" src="/assets/groundlab_kart_okuyucu.png"  > <b> </b>
+<p align="center" width="100%">   
+   <img width="35%" src="/assets/groundlab_kart_okuyucu.png"  > <b> </b>
 </p>
 
 
