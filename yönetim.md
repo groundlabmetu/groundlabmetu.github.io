@@ -24,14 +24,14 @@ Yönetimde olan kişilerin groundlab’i kullanım açısından diğer üyelerde
 
 Aşağıdaki iletişim bilgilerinden ulaşabilirsiniz. Lütfen mesajınızın içinde tam adınız da bulunsun.
 
-Bera Alvan    		     : +90 532 066 21 04 (whatsapp)
+**Bera Alvan**    		          : +90 532 066 21 04 (whatsapp)
 
-Erdem Canaz                : +90 543 939 23 02 (whatsapp, sms)
+**Erdem Canaz**                   : +90 543 939 23 02 (whatsapp, sms)
 
-Mehmetcan Kayasöken : +90 538 762 14 81 (whatsapp)
+**Mehmetcan Kayasöken** : +90 538 762 14 81 (whatsapp)
 
-Tolga Demirdal              : +90 553 320 61 80 (whatsapp)
+**Tolga Demirdal**               : +90 553 320 61 80 (whatsapp)
 
-Yiğit Sayar                    : +90 553 323 65 99 (whatsapp)
+**Yiğit Sayar**                      : +90 553 323 65 99 (whatsapp)
 
 [Ana Sayfaya Dön](https://groundlabmetu.github.io/)
