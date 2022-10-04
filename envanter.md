@@ -4,7 +4,7 @@ title: Envanter
 tagline: Ekipmanlar ve Sarf Malzemeleri
 permalink: /envanter.html
 ref: envanter
-order: 5
+order: 4
 ---
 <h1>GroundLab'da bulunan ekipmanlar ve sarf malzemeleri nelerdir?</h1>
 Aşağıda yazılı olan ekipmanların çalışırlığı ve sarf malzemelerinin tedariği GroundLab yönetimi tarafından denetlenmektedir. Lütfen unutmayın, aşağıda yazılı olanlardan farklı ekipmanlar ve sarf malzemeleri de labda bulunmaktadır. Fakat tedarikleri ve çalışırlıkları kontrol edilmemektedir. Bu malzemeler bozulduktan/bittikten sonra yenileri alınmayacaktır Aşağıdaki ekipmanlar bir elektrik öğrencisinin "prototipleme" sırasında ihtiyaç duymasının çok olası oldukları arasından seçilmiştir.

@@ -4,7 +4,7 @@ title: Kurallar
 tagline: “Minik anarşist bir topluluk kurmaya çalıştık fakat kisme kurallara uymadı."
 permalink: /kurallar.html
 ref: kurallar
-order: 4
+order: 5
 ---
 <h1>GroundLab kuralları</h1>
 
