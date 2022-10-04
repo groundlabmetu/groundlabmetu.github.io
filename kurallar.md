@@ -4,7 +4,7 @@ title: Kurallar
 tagline: “We started off trying to set up a small anarchist community, but people wouldn't obey the rules.”
 permalink: /kurallar.html
 ref: kurallar
-order: 6
+order: 4
 ---
 <h1>GroundLab kuralları</h1>
 

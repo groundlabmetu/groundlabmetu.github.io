@@ -4,7 +4,7 @@ title: Yönetim
 tagline: “People who enjoy meetings should not be in charge of anything.”
 permalink: /yonetim.html
 ref: yonetim
-order: 5
+order: 3
 ---
 
 <p align="center" width="100%">   

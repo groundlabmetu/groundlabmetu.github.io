@@ -3,7 +3,7 @@ title: Üyelik
 tagline: “If you want to go quickly, go alone. If you want to go far, go together.”
 permalink: /uyelik.html
 ref: uyelik
-order: 2
+order: 5
 
 
 # [👉 GroundLab Tanıtım Sunumu](https://www.youtube.com/watch?v=ySYRfXMPcYs)
