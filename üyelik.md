@@ -16,7 +16,7 @@ order: 1
 
 *Bu tanıtımında işlenen konular
 
-<h2> GroundLab yetkilendirme sistemi
+<h2> GroundLab yetkilendirme sistemi</h2>
 
 *grodunlab kart okutma sistemi
 
