@@ -19,13 +19,14 @@ GroundLab yönetimi; labda bulunan elektronik ölçüm aletleri, el aletleri ve 
 <h1>Yönetimdekilerin yetkisi nedir ?</h1>
 Yönetimde olan kişilerin groundlab’i kullanım açısından diğer üyelerden hiçbir farkı bulanmamaktadır. Lab kullanımı için geçerli olan tüm kurallar, yönetimdeki üyeler için de geçerlidir. Yönetimdeki kişilerin normal üyelerden farkı laba üye alımlarını denetlemek, malzeme alım isteğinde bulunmak ve kural ihlali yapan üyelerin üyelik iptali için Ozan Keysan’ile iletişim halinde bulunmaları ve kendi aralarında düzenledikleri toplantılarla lab’ın, işleyişini, ve sürdürülebilirliğini sağlayacak kararlar alabilmeleri, kurallar koyabilmeleri ve var olan kuralları güncelleyebilmeleridir.
 
+[Ana Sayfaya Dön]({{ '/' | absolute_url }})
 
 <h1>Yönetimdekilere nasıl ulaşabilirim ?</h1>
 
 Yukarıda verilen yönetim şemasında yönetimdeki üyelerin resmi bulunmaktadır. Bu resimlerin bazılarının altında resminin ait olduğu üyeye ait iletişim bilgileri yazmaktadır. İletişim bilgisi verilen bu kişilere ulaşabilirsiniz.
 
-
+[Ana Sayfaya Dön]({{ '/' | absolute_url }})
 
 ```text
-[Ana Sayfaya Dön](https://groundlabmetu.github.io/)
+[Ana Sayfaya Dön]('https://groundlabmetu.github.io/')
 ```
