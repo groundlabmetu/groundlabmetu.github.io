@@ -21,3 +21,9 @@ Yönetimde olan kişilerin groundlab’i kullanım açısından diğer üyelerde
 
 
 <h1>Yönetimdekilere nasıl ulaşabilirim ?</h1>
+
+Yukarıda verilen yönetim şemasında yönetimdeki üyelerin resmi bulunmaktadır. Bu resimlerin bazılarının altında resminin ait olduğu üyeye ait iletişim bilgileri yazmaktadır. İletişim bilgisi verilen bu kişilere ulaşabilirsiniz.
+
+`<br>`
+
+[Ana Sayfaya Dön]({{ '/' | absolute_url }})
