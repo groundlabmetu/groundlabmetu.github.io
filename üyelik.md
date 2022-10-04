@@ -3,8 +3,7 @@ title: Üyelik
 tagline: “If you want to go quickly, go alone. If you want to go far, go together.”
 permalink: /uyelik.html
 ref: uyelik
-order: 5
-
+order: 1
 ---
 
 <h1>GroundLab'e nasıl üye olurum ?</h1>

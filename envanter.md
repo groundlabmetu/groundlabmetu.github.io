@@ -4,7 +4,7 @@ title: Envanter
 tagline: Ekipmanlar ve Sarf Malzemeleri
 permalink: /envanter.html
 ref: envanter
-order: 1
+order: 5
 ---
 <h1>GroundLab'da bulunan ekipmanlar ve sarf malzemeleri nelerdir?</h1>
 Aşağıda yazılı olan ekipmanların çalışırlığı ve sarf malzemelerinin tedariği GroundLab yönetimi tarafından denetlenmektedir. Lütfen unutmayın, aşağıda yazılı olanlardan farklı ekipmanlar ve sarf malzemeleri de labda bulunmaktadır. Fakat tedarikleri ve çalışırlıkları kontrol edilmemektedir. Bu malzemeler bozulduktan/bittikten sonra yenileri alınmayacaktır Aşağıdaki ekipmanlar bir elektrik öğrencisinin "prototipleme" sırasında ihtiyaç duymasının çok olası oldukları arasından seçilmiştir.
@@ -43,7 +43,7 @@ breadboard, jumper, timsah kablo
   <ul>
     <li><b>Normal diyot:</b> 1N4007 </li>
     <li><b>Zener diyot (1/2W) :</b>3.3V, 3.9V, 4.7V, 5.1V, 5.6V, 6.2V, 6.8V, 7.5V, 8.2V, 9, 10V, 12V, 13V, 15V, 16V, 18V, 20V, 22V, 24V, 27V, 30V, 33V,39V, 43V, 47V   </li>  
-  </ul>  
+  </ul>
 
 <h4>Seramik kapasitörler </h4>
   <ul>
@@ -74,7 +74,7 @@ breadboard, jumper, timsah kablo
     <li><b>Opto-coupler:</b>  </li>
     <li><b>74XX serisi:</b>  </li>
     <li><b>40XX serisi:</b>  </li>
-  </ul>    
+  </ul>  
 <h4>Linear voltaj regülatörleri</h4>
 <ul>
   <li><b> TO-92 paket:</b> 78L05, 78L12, 79L05, 79L09 </li>
@@ -87,12 +87,10 @@ breadboard, jumper, timsah kablo
     <li><b> Diğer:</b> Lehim teli (0.5mm- 0.75mm - 1mm), lehim pastası, 50X100mm tek yüz FR4 bakır plaket, 50X50 delikli pertinaks, 24AWG beyaz kablo, 24AWG mavi kablo, 24AWG kırmızı kablo, 24AWG siyah kablo, </li>
   </ul>
 
-
 <h4>Mekanik sarf</h4>
-  <ul>        
+  <ul>      
     <li><b> Vida, somun ve çivi: </b> M3 vida (10mm-12mm- 20mm- 50mm- somun- pul), M4 vida (10mm-50mm-somun-pul),   </li>
     <li><b> Diğer: </b> Kablo bağı, silikon tabancası silikonu, zımpara kağıdı</li>
   </ul>
-
 
 [Ana Sayfaya Dön]({{ '/' | absolute_url }})
