@@ -7,6 +7,6 @@ ref: kurallar
 order: 5
 ---
 <h1>GroundLab kuralları</h1>
-
+test deneme 123142
 
 [Ana Sayfaya Dön]({{ '/' | absolute_url }})
