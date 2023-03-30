@@ -35,7 +35,7 @@ Sistem şu şekilde kimlik doğrular: Okul tarafından verilen öğrenci kartlar
 
 <h4>1) GroundLab tanıtımı </h4>
 
-Bu eğitime laboratuvara giriş yetkisi bulunmayan kişiler başvurur. Amaç eğitime katılan kişilere lab kültürü, kuralları ve işleyişi hakkında genel bilgi kazandırmaktır.  Bu eğitime katılmak isteyen kişiler [google forms](https://forms.gle/FNan97u9rruZy3rQ6)'u doldurur. Sonrasında lab yetkilileri onlara whatsapp üzerinden ulaşır ve tanıtıma davet eder. Tanıtım 20 ila 30 dakika arasında sürer. Tanıtımı bitiren kişiler laboratuvara giriş yetkisine sahip olur
+Bu eğitime laboratuvara giriş yetkisi bulunmayan kişiler başvurur. Amaç eğitime katılan kişilere lab kültürü, kuralları ve işleyişi hakkında genel bilgi kazandırmaktır.  Bu eğitime katılmak isteyen kişiler Groundlab Duyuru whatsapp grubuna katılırlar. Sonrasında lab yetkilileri onlara whatsapp üzerinden ulaşır ve tanıtıma davet eder. Tanıtım 20 ila 30 dakika arasında sürer. Tanıtımı bitiren kişiler laboratuvara giriş yetkisine sahip olur.
 
 <h4>2) Elektronik eğitimi </h4>
 
