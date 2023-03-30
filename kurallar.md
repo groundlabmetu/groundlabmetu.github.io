@@ -6,7 +6,7 @@ permalink: /kurallar.html
 ref: kurallar
 order: 5
 ---
-<h1>GroundLab kuralları</h1>
+<h1>GroundLab Kuralları</h1>
 
 
 1.	GroundLab, Elektrik ve Elektronik bölümü öğrencisi olup laboratuvar tanıtımını başarıyla tamamlamış tüm öğrencilere açık bir laboratuvardır. Kullanmak için herhangi bir bölüm hocasıyla çalışmak gerekmez.
