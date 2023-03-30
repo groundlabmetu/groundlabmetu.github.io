@@ -32,7 +32,6 @@ Sistem şu şekilde kimlik doğrular: Okul tarafından verilen öğrenci kartlar
 
 
 <h2> GroundLab eğitimler ve sınavlar</h2>
-[👉Ek eğitimlere başvuru formu](https://forms.gle/2kewZYfw3y63EagT6)
 
 <h4>1) GroundLab tanıtımı </h4>
 
