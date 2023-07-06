@@ -12,7 +12,7 @@ order: 3
 </p>
 
 <p align="center" width="100%">   
-   <img width="100%" src="/assets/ee1b702dbed730ed8f7142c19aa33ab6.jpg"  > <b> </b>
+   <img width="30%" src="/assets/ee1b702dbed730ed8f7142c19aa33ab6.jpg"  > <b> </b>
 </p>
 
 <h1>GroundLab yönetimi kimdir ?</h1>
