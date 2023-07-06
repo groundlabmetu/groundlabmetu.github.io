@@ -11,10 +11,6 @@ order: 3
    <img width="100%" src="/assets/2022_2023_yonetim_sablonu.png"  > <b> </b>
 </p>
 
-<p align="center" width="100%">   
-   <img width="30%" src="/assets/ee1b702dbed730ed8f7142c19aa33ab6.jpg"  > <b> </b>
-</p>
-
 <h1>GroundLab yönetimi kimdir ?</h1>
 
 GroundLab yönetimi; labda bulunan elektronik ölçüm aletleri, el aletleri ve takımların bakımını yapıp halihazırda bulunanlara ek olarak alınması gereken ekipmanların listesini yapan, bu ekipmanların nasıl kullanılacakları ile ilgili yüz yüze ve çevrimiçi içerikler hazırlayan, genel prototiplemede sıkça kullanılan sarf malzmelerinin laba teminini ve temin edilen sarf malzemelerinin düzenli bir şekilde bulunmasını sağlayan, üyelerin alımları ile ilgili yöntemleri belirleyen ve bunları uygulayan, labın düzenini bozabilecek, güvenlik tehlikesine yol açabilecek üyelerin yetkisini iptal eden, bölüm öğrencilerine ve bölümümüzü tercih edebilecek / bölümümüzü tercih eden öğrencilere labın tanıtımını yapan, labın sürdürülebilirliği için işleyişler belirleyen ve laba yönelik kullanım kuralları koyan,  bölümümüz öğretim üyelerinden olan Ozan Keysan tarafından seçilen ve bölümüzde lisans eğitimine devam etmekte olan gönüllü öğrencilerdir.
