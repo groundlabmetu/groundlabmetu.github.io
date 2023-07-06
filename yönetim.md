@@ -11,6 +11,9 @@ order: 3
    <img width="100%" src="/assets/2022_2023_yonetim_sablonu.png"  > <b> </b>
 </p>
 
+<p align="center" width="100%">   
+   <img width="100%" src="/assets/ee1b702dbed730ed8f7142c19aa33ab6.jpg"  > <b> </b>
+</p>
 
 <h1>GroundLab yönetimi kimdir ?</h1>
 
