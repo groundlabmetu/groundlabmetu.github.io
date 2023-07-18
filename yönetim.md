@@ -12,7 +12,7 @@ order: 3
 </p>
 
 <p align="center" width="100%">   
-   <img width="100%" src="/assets/yonetim2.4.png"  > <b> </b>
+   <img width="100%" src="/assets/yonetim2.5.png"  > <b> </b>
 </p>
 
 <h1>GroundLab yönetimi kimdir ?</h1>
