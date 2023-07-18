@@ -8,7 +8,7 @@ order: 3
 ---
 
 <p align="center" width="100%">   
-   <img width="100%" src="/assets/yonetim2.2.png"  > <b> </b>
+   <img width="100%" src="/assets/yonetim2.3.png"  > <b> </b>
 </p>
 
 <p align="center" width="100%">   
