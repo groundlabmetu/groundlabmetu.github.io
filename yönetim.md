@@ -8,11 +8,11 @@ order: 3
 ---
 
 <p align="center" width="100%">   
-   <img width="100%" src="/assets/yonetim2.3.png"  > <b> </b>
+   <img width="100%" src="/assets/2022_2023_yonetim_sablonu.png"  > <b> </b>
 </p>
 
 <p align="center" width="100%">   
-   <img width="100%" src="/assets/2022_2023_yonetim_sablonu.png"  > <b> </b>
+   <img width="100%" src="/assets/yonetim2.4.png"  > <b> </b>
 </p>
 
 <h1>GroundLab yönetimi kimdir ?</h1>
