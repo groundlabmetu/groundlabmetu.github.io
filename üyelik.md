@@ -7,11 +7,11 @@ order: 1
 ---
 <h1>GroundLab'e nasıl üye olurum ?</h1>
 
-[👉GroundLab tanıtım sunumu](https://www.youtube.com/watch?v=ySYRfXMPcYs)
+**GroundLab** sadece "ODTÜ - Elektrik ve Elektronik" bölümünde eğitim gören kişileri üye olarak kabul etmektedir. Bölümümüzde eğitim gören öğrenciler GroundLab'e üye olmak istediklerinde Groundlab Duyuru whatsapp grubuna katılır ve beklemeye başlarlar. Yönetimdeki üyeler müsaitliklerini ve beklemedeki başvuruların sayısını dikkate alarak başvuruda bulunan kişilere whatsapp grubundan ulaşıp onları lab tanıtımına davet ederler. Yaklaşık yarım saat sürecek olan lab tanıtımına katılan ve başarıyla tamamlayıp [GROUNDLAB GÜVENLİK SÖZLEŞMESİ](https://docs.google.com/document/d/1UKTl5FFHKwNnq9uGve5rbhPGHiEqvrpJyYHRkwj5hcw/edit?usp=sharing)'ni imzalayan öğrencilerin kartları groundlab'e tanımlanır ve bu kişiler GroundLab'e giriş yetkisine sahip olur. GroundLab'e giriş yetkisi alan üyeler ek eğitimleri tamamlayarak yeni yetkiler kazanabilirler.
 
 <h2> Üyelik</h2>
 
-**GroundLab** sadece "ODTÜ - Elektrik ve Elektronik" bölümünde eğitim gören kişileri üye olarak kabul etmektedir. Bölümümüzde eğitim gören öğrenciler GroundLab'e üye olmak istediklerinde Groundlab Duyuru whatsapp grubuna katılır ve beklemeye başlarlar. Yönetimdeki üyeler müsaitliklerini ve beklemedeki başvuruların sayısını dikkate alarak başvuruda bulunan kişilere whatsapp grubundan ulaşıp onları lab tanıtımına davet ederler. Yaklaşık yarım saat sürecek olan lab tanıtımına katılan ve başarıyla tamamlayıp [GROUNDLAB GÜVENLİK SÖZLEŞMESİ](https://docs.google.com/document/d/1UKTl5FFHKwNnq9uGve5rbhPGHiEqvrpJyYHRkwj5hcw/edit?usp=sharing)'ni imzalayan öğrencilerin kartları groundlab'e tanımlanır ve bu kişiler GroundLab'e giriş yetkisine sahip olur. GroundLab'e giriş yetkisi alan üyeler ek eğitimleri tamamlayarak yeni yetkiler kazanabilirler.
+
 
 <h2> GroundLab yönetim sistemi</h2>
 
