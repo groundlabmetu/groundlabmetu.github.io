@@ -12,6 +12,5 @@ GroundLab yönetimini ODTU elektrik ve elektronik lisans öğrencilerinden oluş
 <h1>GroundLab nerdedir?</h1>
 Elektrik ve elektronik bölümü-C binası bodrum katta bulunur. C binası zemin katta bulunan C-119 ofisinin tam altında yer alır
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d233.42963479457447!2d32.78218899123727!3d39.891223405029784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xec5adf2865efe3db!2zMznCsDUzJzI4LjIiTiAzMsKwNDYnNTYuNSJF!5e1!3m2!1str!2str!4v1647175250139!5m2!1str!2str" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 [Ana Sayfaya Dön]({{ '/' | absolute_url }})
