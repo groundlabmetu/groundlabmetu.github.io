@@ -22,11 +22,13 @@ Bu eğitime laboratuvara giriş yetkisi bulunmayan kişiler başvurur. Amaç eğ
 <h4>2) Elektronik Masası Sınavı </h4>
 
 Laboratuvardaki elektronik masalarında güç kaynakları, osiloskoplar veya lehim istasyonu gibi ekipmanlar bulunmaktadır. Elektronik masalarını kullanmak isteyen kişilerin elektronik sınavına katılmaları gerekmektedir. Sınav duyurusu whatsapp grubu üzerinden yapılacaktır. 
+
 Sınav hakkındaki bilgiler için: [Elektronik Masası Sınav Rubriği](https://docs.google.com/document/d/1Q6Xla2lJx-su3a9m6ArDI8OR2G8pxmKQri63AJenTag/edit?usp=share_link) 
 
 <h4>3) 3D Yazıcı Sınavı </h4>
 
 GroundLab'de bulunan 3D yazıcıyı (**Creality Ender 3 V2 3D printer**) kullanmak isteyen kişiler  kullanımı ile ilgili kaynakları (youtube, blog vb.) incelemeli ve  yazıcının kullanımını öğrenmelidir.
+
 Sınav hakkındaki bilgiler için: [3D Yazıcı Sınav Rubriği](https://docs.google.com/document/d/1yD4CI2pF4pGj-tJGNYHJpMOCaFR5HKiLs89QtUj-pWA/edit?usp=share_link)
 
 Faydalı linkler:
@@ -37,6 +39,7 @@ Faydalı linkler:
 <h4>4) Mekanik Atölyesi Sınavı </h4>
 
 Laboratuvarda masa matkabı, dekupaj gibi çeşitli elektronik el aletleri bulunmaktadır. Bu aletleri kullanmak isteyen kişilerin atölye sınavını tamamlaması gerekmektedir.
+
 Sınav hakkındaki bilgiler için: [Mekanik Atölyesi Sınav Rubriği](https://docs.google.com/document/d/1sq2U5inA9DC4oaaTr8noES5KMQCLZIrUJ9f9KQIARlk/edit?usp=sharing)
 
 
