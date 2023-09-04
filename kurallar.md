@@ -16,7 +16,7 @@ order: 5
 | Dijital Labı (EE314) |   | ✓ |
 | Bitirme Projeleri (EE493-EE494) | ✓ |   |
             
-<p>                  
+                
 1. GroundLab, Elektrik ve Elektronik bölümü öğrencisi olup laboratuvar tanıtımını başarıyla tamamlamış tüm öğrencilere açık bir laboratuvardır. Kullanmak için herhangi bir bölüm hocasıyla çalışmak gerekmez.
 2. Kullanıcıların girişlerde kart okutması zorunludur.
 3. Giriş yetkisi olmayanlar laba giremez. Giriş yetkisi bulunan birinin yetkisi olmayan birini labın içine alması doğrudan **yetki iptali** ile sonuçlanır.
@@ -32,7 +32,7 @@ order: 5
 13. Üyeler, kullanacakları malzemelerin kullanım şeklini bilmedikleri durumda yardım almalıdırlar. (bkz. Testere, power supply, sıcak hava tabancası vs.)
 14. Güvenlik kurallarının ihlali sonucunda meydana gelen her türlü zarar, ihlali gerçekleştiren kullanıcının sorumluluğundadır.
 15. Labın ders projeleri için kullanılabilme durumu yukarıdaki tabloda belirtilir. Tabloyu kontrol etmek üyelerin sorumluluğundadır. Tabloda izin verildiği belirtilmeyen zamanlarda ders projelerinin yapılması doğrudan **yetki iptali** ile sonuçlanır.
-</p>
+
 
 **Labı kullanan üyeler yukarıdaki kurallara uymayı kabul eder. Kural ihlali halinde ihlali gerçekleştiren üyelerin giriş yetkisi iptal edilecektir.**
 
