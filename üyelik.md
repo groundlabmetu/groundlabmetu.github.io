@@ -15,7 +15,8 @@ Tanıtımların sınırlı kontenjanı düşünüldüğünde başvuran adaylar a
 1)	Tanıtıma alınacak kişilerin belirlenmesinde, labı kullanma motivasyonunu açıklayan bir niyet mektubunu yönetim kuruluna ileten kişiler önceliklidir.  
 2)	Yeni dönemler eski dönemlere göre önceliklidir.
 3)	Labın alabileceği maksimum kişi sayısı göz önünde bulundurulduğunda kalan kontenjan durumuna göre diğer adaylar arasından rastgele bir seçim yapılır. 
-<p> Belirtilen kriterlerin dışında bir uygulama yapılması yönetim kurulunun inisiyatifindedir. Böyle bir uygulama yapılırsa uygulanan yeni kriterler duyurulacaktır. Bu nedenle yapılacak duyuruları takip etmenizi öneririz.
+
+Belirtilen kriterlerin dışında bir uygulama yapılması yönetim kurulunun inisiyatifindedir. Böyle bir uygulama yapılırsa uygulanan yeni kriterler duyurulacaktır. Bu nedenle yapılacak duyuruları takip etmenizi öneririz.
 
 <h2> GroundLab yönetim sistemi</h2>
 
