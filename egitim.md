@@ -12,7 +12,7 @@ order: 2
 GroundLab eğitimleri her dönemin başında, o dönemin akademik takvimine bağlı olarak belirli bir program dahilinde yapılmaktadır. Tanıtımı takip eden günlerde GroundLab yetkililerinin yapacağı duyurularla masa eğitimlerinin takvimi belirlenir. Eğitimler dönemin başında ve yönetimin inisiyatifine bağlı olarak herhangi bir zamanda yapılabilmektedir. 
 Dönem Başı Eğitim: Her dönem derslerin başladığı günden itibaren 3 haftada eğitimler tamamlanmaktadır. 
 Yönetim İnisiyatifindeki Eğitim: GroundLab yönetimindekiler uygun olup olmamalarına bağlı olarak sene içerisinde ek eğitimler koyabilir. 
-Eğitimlere katılmak isteyen öğrenciler [Whatsapp GroundLab Duyuru](https://chat.whatsapp.com/KtEukdV4tJG5WbBhpRvZFJ) grubuna atılacak olan duyuruları takip etmekle yükümlüdür.  
+Eğitimlere katılmak isteyen öğrenciler [GroundLab Duyuru](https://chat.whatsapp.com/KtEukdV4tJG5WbBhpRvZFJ) Whatsapp grubuna atılacak olan duyuruları takip etmekle yükümlüdür.  
 
 
 <h4>1) GroundLab tanıtımı </h4>
