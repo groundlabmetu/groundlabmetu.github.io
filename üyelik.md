@@ -13,9 +13,9 @@ order: 1
 
 Tanıtımların sınırlı kontenjanı düşünüldüğünde başvuran adaylar arasından seçim yapmak durumundayız. Bu seçim şu öncelik sırasına göre yapılmaktadır:
 
-1)	Tanıtıma alınacak kişilerin belirlenmesinde, labı kullanma motivasyonunu açıklayan bir niyet mektubunu yönetim kuruluna ileten kişiler önceliklidir.  
-2)	Yeni dönemler eski dönemlere göre önceliklidir.
-3)	Labın alabileceği maksimum kişi sayısı göz önünde bulundurulduğunda kalan kontenjan durumuna göre diğer adaylar arasından rastgele bir seçim yapılır.
+1) Tanıtıma alınacak kişilerin belirlenmesinde, labı kullanma motivasyonunu açıklayan bir niyet mektubunu yönetim kuruluna ileten kişiler önceliklidir.
+2) Yeni dönemler eski dönemlere göre önceliklidir.
+3) Labın alabileceği maksimum kişi sayısı göz önünde bulundurulduğunda kalan kontenjan durumuna göre diğer adaylar arasından rastgele bir seçim yapılır.
 
 Belirtilen kriterlerin dışında bir uygulama yapılması yönetim kurulunun inisiyatifindedir. Böyle bir uygulama yapılırsa uygulanan yeni kriterler duyurulacaktır. Bu nedenle yapılacak duyuruları takip etmenizi öneririz.
 
