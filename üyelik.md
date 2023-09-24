@@ -29,7 +29,7 @@ GroundLab 4 farklı bölgeye ayrılmıştır. Bu bölgeler şunlardır;
 
 Bu bölgelerden sadece **bilgisayar masası**nda sürekli elektrik bulunmaktadır. Diğer bölgelerdeki elektrik ise laboratuvarın bilgisayarında bulunan arayüz üzerinden açılır. GroudLab tanıtımını tamamlayan bir üye laboratuvara girebilecek yetkiye sahiptir fakat diğer bölgelerdeki elektriği açacak yetkiye sahip değildir. Bu bölgelerde yetkili olmak için bazı eğitimleri tamamlaması gerekir. Tamaladıktan sonra ilgili yetkiyi kazanır.
 
-Sistem şu şekilde kimlik doğrular: Okul tarafından verilen öğrenci kartlarının öğrenciye özel bir numarası vardır. RFID okuyucu ile bu numaralar temassız şekilde okunabilir. GroundLab yönetim sisteminde bulunan okuyucu, öğrenci kartlarındaki bu özel numarayla öğrenciyi eşleştirmekte ve öğrencinin kimliğini doğrulamaktadır. Bu doğrulama sonrasında öğrenci, kendi yetkisi sınırında, GroundLab programında işlem yapabilmeye başlar.
+Sistem [şu şekilde](https://youtu.be/ieu2xN-md9k) kimlik doğrular: Okul tarafından verilen öğrenci kartlarının öğrenciye özel bir numarası vardır. RFID okuyucu ile bu numaralar temassız şekilde okunabilir. GroundLab yönetim sisteminde bulunan okuyucu, öğrenci kartlarındaki bu özel numarayla öğrenciyi eşleştirmekte ve öğrencinin kimliğini doğrulamaktadır. Bu doğrulama sonrasında öğrenci, kendi yetkisi sınırında, GroundLab programında işlem yapabilmeye başlar.
 
 <p align="center" width="100%">   
    <img width="35%" src="/assets/groundlab_kart_okuyucu.png"  > <b> </b>
