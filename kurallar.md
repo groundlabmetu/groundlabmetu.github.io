@@ -8,13 +8,6 @@ order: 5
 ---
 <h1>GroundLab Kuralları</h1>
 
-| Ders Projeleri | Yapılabilir | Yapılamaz |
-| :---: | :---: | :---: |
-| Circuit 1 Labı (EE213) |   | ✓ |
-| Circuit 2 Labı (EE214) |   | ✓ |
-| Analog Labı (EE313) |   | ✓ |
-| Dijital Labı (EE314) |   | ✓ |
-| Bitirme Projeleri (EE493-EE494) | ✓ |   |
             
                 
 1. GroundLab, Elektrik ve Elektronik bölümü öğrencisi olup laboratuvar tanıtımını başarıyla tamamlamış tüm öğrencilere açık bir laboratuvardır. Kullanmak için herhangi bir bölüm hocasıyla çalışmak gerekmez.
@@ -31,7 +24,8 @@ order: 5
 12. Sarf malzemelerinin kullanımından ücret alınmaz fakat harcanan malzemenin geri konulması süreklilik için önemlidir. Üye kullandığı malzemeleri sipariş verip yerine koyabilir.
 13. Üyeler, kullanacakları malzemelerin kullanım şeklini bilmedikleri durumda yardım almalıdırlar. (bkz. Testere, power supply, sıcak hava tabancası vs.)
 14. Güvenlik kurallarının ihlali sonucunda meydana gelen her türlü zarar, ihlali gerçekleştiren kullanıcının sorumluluğundadır.
-15. Labın ders projeleri için kullanılabilme durumu yukarıdaki tabloda belirtilir. Tabloyu kontrol etmek üyelerin sorumluluğundadır. Tabloda izin verildiği belirtilmeyen zamanlarda ders projelerinin yapılması doğrudan **yetki iptali** ile sonuçlanır.
+15. Labda kişinin kendisine veya bir başkasına zarar verebilecek şekilde hareket etmesi yasaktır. Bu tür davranışlar sergileyen kişilerin laba giriş yetkisi iptal edilir.
+16. Labın ders projeleri için kullanılabilme durumu yukarıdaki tabloda belirtilir. Tabloyu kontrol etmek üyelerin sorumluluğundadır. Tabloda izin verildiği belirtilmeyen zamanlarda ders projelerinin yapılması doğrudan **yetki iptali** ile sonuçlanır.
 
 
 **Labı kullanan üyeler yukarıdaki kurallara uymayı kabul eder. Kural ihlali halinde ihlali gerçekleştiren üyelerin giriş yetkisi iptal edilecektir.**
