@@ -25,7 +25,6 @@ order: 5
 13. Üyeler, kullanacakları malzemelerin kullanım şeklini bilmedikleri durumda yardım almalıdırlar. (bkz. Testere, power supply, sıcak hava tabancası vs.)
 14. Güvenlik kurallarının ihlali sonucunda meydana gelen her türlü zarar, ihlali gerçekleştiren kullanıcının sorumluluğundadır.
 15. Labda kişinin kendisine veya bir başkasına zarar verebilecek şekilde hareket etmesi yasaktır. Bu tür davranışlar sergileyen kişilerin laba giriş yetkisi iptal edilir.
-16. Labın ders projeleri için kullanılabilme durumu yukarıdaki tabloda belirtilir. Tabloyu kontrol etmek üyelerin sorumluluğundadır. Tabloda izin verildiği belirtilmeyen zamanlarda ders projelerinin yapılması doğrudan **yetki iptali** ile sonuçlanır.
 
 
 **Labı kullanan üyeler yukarıdaki kurallara uymayı kabul eder. Kural ihlali halinde ihlali gerçekleştiren üyelerin giriş yetkisi iptal edilecektir.**
