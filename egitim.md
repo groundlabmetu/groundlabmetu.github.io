@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Genel Duyurular
+title: Genel Raporlar
 tagline: “Onları doğru kullanmak en az havalı ekipmanlara sahip olmak kadar önemli"
 permalink: /egitim.html
 ref: egitim
