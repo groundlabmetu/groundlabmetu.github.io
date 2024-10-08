@@ -8,9 +8,12 @@ order: 1
 <h1>GroundLab'e nasıl üye olurum ?</h1>
 
  **GroundLab**, yalnızca Elektrik ve Elektronik bölümü öğrencilerinin kullanımına açıktır. Lab üyelerinin katılabileceği üç sınav bulunmaktadır: Tanıtım, Elektronik ve Atölye sınavları. Bu sınavlar, her dönemin ilk üç haftasında [GroundLab Duyuru](https://chat.whatsapp.com/KtEukdV4tJG5WbBhpRvZFJ) Whatsapp grubunda duyurulup yapılmaktadır. Sınavların detayları ilerleyen başlıklarda detaylı şekilde açıklanmıştır. 
+ 
  Sınavlara genel bir bakış yapacak olursak: Tanıtım sınavını başarıyla geçen üyelerin öğrenci numaraları elektronik bölümüne iletilir ve takip eden hafta içinde, bu kişiler öğrenci kartlarını labın girişindeki cihaza okutarak laba giriş yapabilmeye başlarlar. Ancak, labda çalışmak için önce masalara elektrik sağlamaları gerekmektedir. Bu işlem için, bilgisayar masasının yanında bulunan kart okuma sistemine kartlarını okutmaları gerekmektedir. Böylece yetkili oldukları masalara enerji verebilirler. Masa kullanım yetkisi kazanmak için atölye ve elektronik sınavlarını başarıyla tamamlamış olmaları gerekir.
+ 
  Labın kart sisteminin nasıl çalıştığını görmek isterseniz, Burcu’nun bu sistemi kullanarak elektronik masalara nasıl enerji verdiğini 27:26 dakikasından itibaren izleyebilirsiniz:
  [YouTube Videosu](https://www.youtube.com/watch?v=9nzOj6EiEXA&t=618s)
+ 
  Bu sınavlara girme sırası yoktur. Örneğin, Tanıtım sınavına girmemiş bir üye elektronik sınavına girebilir. Ancak, elektronik sınavını geçmiş olsa bile, Tanıtım sınavını tamamlamadan laba giriş yapamaz ve bu sebeple yetkisi olsa dahi elektronik masalarına erişim sağlayamaz. Tanıtım sınavını geçtiği anda ise, Elektronik masaları kullanma yetkisi ile labı kullanmaya başlar. 
 Groundlab ile ilgili duyurulara erişmek ve sorularınızı iletmek için aşağıdaki bağlantılardan faydalanabilirsiniz.
 
@@ -41,10 +44,10 @@ Yönetim, her dönemin ilk üç haftasında düzenlenecek olan atölye sınavlar
 
 GroundLab Kart sisteminde 4 farklı bölgeye ayrılmıştır. Bu bölgeler şunlardır;
 
-Bilgisayar masası
-Elektronik masaları ( 1&2)
-Atölye masaları
-3D printer
+1. Bilgisayar masası
+2. Elektronik masaları
+3. Atölye masaları
+4. 3D printer
 
 Bu bölgelerden sadece bilgisayar masasında sürekli elektrik bulunmaktadır. Diğer bölgelerdeki elektrik ise laboratuvarın bilgisayarında bulunan arayüz üzerinden açılır. Elektronik sınavını tamamlayan biri Elektronik masaları ve 3B-yazıcıya güç verebilirken, atölye sınavını tamamlayan biri atölye masalarına güç verebilir. 
 
