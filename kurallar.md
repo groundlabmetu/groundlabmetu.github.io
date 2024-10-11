@@ -16,7 +16,7 @@ order: 5
 4. Üyeler eğitimini tamamlamadıkları masaları kullanamaz. Üyenin yetkisi bulunmayan masayı kullanması **yetki iptali** ile sonuçlanır.
 5. Ground Lab proje geliştirmek ve fiziksel test yapmak içindir. Teorik ders çalışmak için kullanılamaz.
 6. Ground Lab 7 gün 24 saat kullanıma açıktır ve kullanımınızdan hiçbir ücret alınmaz.
-7. Üyeler için lab kullanım saatinde herhangi bir sınırlama olmamakla birlikte, 45 dakikadan uzun süre labda başıboş eşya bırakmak yasaktır. (Geceden malzeme bırakmak, malzeme bırakıp 45 dakikadan fazla mola vermek, vs.)
+7. Üyeler için lab kullanım saatinde herhangi bir sınırlama olmamakla birlikte, 2 saatten uzun süre labda başıboş eşya bırakmak yasaktır. (Geceden malzeme bırakmak, malzeme bırakıp 2 saatten fazla mola vermek, vs.)
 8. Ground Lab öğrenciler tarafından işletilen ve kullanılan bir lab olduğundan lab düzenini korumak üyelerin görevidir.  Labın tüm kullanıcıları labın genel tertip ve düzeninden sorumludur. Masalar kullanılırken dağıtılabilir fakat dağınık bir şekilde bırakılmamalıdır. Sebep olunan dağınıklık toplanmadan lab’dan ayrılınması **yetki iptali** ile sonuçlanır.
 9. Labda eşya bırakılamaz. İstisnai durumlarda yönetimden izin alınmalıdır.
 10. Laba yiyecek ve içecekle girmek yasaktır.
